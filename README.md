@@ -1,4 +1,4 @@
-## Hi there 👋 I'am Juma Islam
+## Hi 👋 I'am Juma Islam
 - 🔭 I’m currently working on  - React projects - Responsive UI/UX based websites - Personal Portfolio & Practice Projects 
 - 🌱 I’m currently learning - JavaScript (Advanced) - React JS - API Integration - Tailwind Components & Animations
 - 👯 I’m looking to collaborate on - Frontend projects - Open-source beginner-friendly projects - Any web development learning-based tasks 
