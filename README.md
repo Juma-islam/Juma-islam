@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.ibb.co.com/DPPJQxVy/jumko.jpg" width="100%" />
-</div>
-
 ## Hi 👋 I'am Juma Islam
 ### Frontend Developer (React & Tailwind) | MERN Stack Learner 
 
