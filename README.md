@@ -6,24 +6,17 @@ I am a Front-End Developer focused on building clean, responsive, and modern web
 I work with HTML, CSS, JavaScript, React, and Tailwind, and I also handle backend basics using MongoDB and Express.js.  
 I love learning new tools, improving my skills, and creating real-world projects that help me grow as a developer.
 
-### Working On
-- React UI • Responsive Web • MERN practice  
+♨ Explore my work: github.com/Juma-islam
 
-### Learning
-- JS • React • APIs • Tailwind • Express  
+🌱 Learning: JavaScript (Advanced), React, Tailwind, API Integration, Express & MongoDB
 
-### Collaboration
-- Frontend & beginner-friendly OSS  
+💬 Ask me about: HTML • CSS • JS • React • Tailwind • MongoDB • Express
 
-### Need Help
-- Clean React patterns  
+📫 Contact: islamjuma324@gmail.com
 
-### Ask Me
-- HTML • CSS • JS • React • Tailwind  
+📄 Portfolio: Coming soon…
 
-### Fun Fact
-I break → fix → learn 😄
-
+⚡ Fun fact: I learn by breaking things 😄
 ## 🌐 Socials  
 - **Facebook:** [https://ononna.islam.juma ](https://www.facebook.com/ononna.islam.juma) 
 - **Email:** islamjuma324@gmail.com  
