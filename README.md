@@ -1,5 +1,28 @@
-## Hi 👋 I'am Juma Islam
-### Frontend Developer (React & Tailwind) | MERN Stack Learner 
+![cover photo](https://i.postimg.cc/15sH2qRt/Blue-Modern-Professional-Digital-Marketing-Background-Linked-In-Banner.jpg)
+
+<p align="center">
+  <a href="[https://github.com/Juma-islam](https://github.com/Juma-islam/Juma-islam/blob/main/jumko-removebg-preview%20(1).jpg)">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=2500&pause=500&color=007BFF&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=800&lines=Hello%2C+I'm+Juma+Islam+%F0%9F%91%8B;MERN+Stack+Developer;" alt="Typing Animation" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-brightgreen?style=for-the-badge&logo=react" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-Framework-000000?style=for-the-badge&logo=express" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Juma-islam?tab=repositories">
+    <img src="https://img.shields.io/github/followers/Juma-islam?style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Juma-islam">
+    <img src="https://img.shields.io/github/stars/Juma-islam?style=social" alt="GitHub Stars" />
+  </a>
+</p>
+
 
 ## 👩‍💻 About Me  
 I am a Front-End Developer focused on building clean, responsive, and modern web applications.  
