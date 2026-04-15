@@ -59,6 +59,41 @@ I'm a passionate **MERN Stack Developer** specializing in building clean, respon
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
+## 📌 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">01. GarmentFlow</h3>
+      <a href="[https://your-live-link.com](https://garments-tracker-projects.netlify.app/)">
+        <img src="[https://i.postimg.cc/your-image-id/garmentflow.jpg" alt="GarmentFlow" width="100%](https://i.ibb.co.com/wZkc26QG/banner.png)">
+      </a>
+      <p align="center">
+        <b>Garment Inventory Tracker</b><br>
+        <i>MERN Stack, JWT, Real-time Updates</i>
+      </p>
+      <p align="center">
+        <a href="[https://github.com/Juma-islam/repo-link](https://github.com/Juma-islam/assignment-number-11-client)"><b>Code</b></a> | 
+        <a href="[https://your-live-link.com](https://garments-tracker-projects.netlify.app/)"><b>Live Demo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">02. SmartLMS Pro</h3>
+      <a href="[https://your-live-link.com](https://smartlms-pro.vercel.app/)">
+        <img src="[https://i.postimg.cc/your-image-id/smartlms.jpg](https://i.ibb.co.com/Q36bbzSj/team-banner.png)" alt="SmartLMS Pro" width="100%">
+      </a>
+      <p align="center">
+        <b>AI-powered Learning Management System</b><br>
+        <i>React, Node.js, MongoDB, Claude API</i>
+      </p>
+      <p align="center">
+        <a href="[https://github.com/Juma-islam/repo-link](https://github.com/masumBillah-1/Ai-Powered-Learning-Management-System)"><b>Code</b></a> | 
+        <a href="[[https://your-live-link.com](https://smartlms-pro.vercel.app/)](https://smartlms-pro.vercel.app/)"><b>Live Demo</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=Juma-islam" />
