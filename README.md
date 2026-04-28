@@ -80,7 +80,7 @@ I'm a passionate **MERN Stack Developer** specializing in building clean, respon
           <img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=chrome" alt="Live Demo">
         </a>
       </p>
-      <ul style="font-size: 0.9em;">
+      <ul>
         <li>Full-stack inventory management system.</li>
         <li>Secure authentication using JWT.</li>
         <li>Dynamic dashboard for tracking stock.</li>
@@ -104,7 +104,7 @@ I'm a passionate **MERN Stack Developer** specializing in building clean, respon
           <img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=vercel" alt="Live Demo">
         </a>
       </p>
-      <ul style="font-size: 0.9em;">
+      <ul>
         <li>AI-driven content generation for courses.</li>
         <li>Interactive student-teacher dashboard.</li>
         <li>Smooth UI/UX with modern React patterns.</li>
@@ -112,6 +112,7 @@ I'm a passionate **MERN Stack Developer** specializing in building clean, respon
     </td>
   </tr>
 </table>
+
 
 ## 📊 GitHub Stats  
 <div align="center">
