@@ -61,40 +61,51 @@ I'm a passionate **MERN Stack Developer** specializing in building clean, respon
 
 ## 📌 Featured Projects
 
-<table border="0">
+<table border="0" cellpadding="10">
   <tr>
+    <!-- Project 1 -->
     <td width="50%" valign="top">
       <h3 align="center">01. GarmentFlow</h3>
-      <a href="https://garments-tracker-projects.netlify.app/">
-        <img src="https://i.ibb.co.com/wZkc26QG/banner.png" alt="GarmentFlow" style="width: 100%; border-radius: 10px;">
+      
+      <a href="https://garments-tracker-projects.netlify.app/" target="_blank">
+        <img src="https://i.ibb.co.com/wZkc26QG/banner.png" 
+             alt="GarmentFlow" 
+             style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       </a>
+      
       <p align="center">
         <strong>Garment Inventory Tracker</strong><br>
         <em>MERN Stack • JWT • Real-time Updates</em>
       </p>
+      
       <p align="center">
-        <a href="https://github.com/Juma-islam/assignment-number-11-client"><b>Code</b></a> | 
-        <a href="https://garments-tracker-projects.netlify.app/"><b>Live Demo</b></a>
+        <a href="https://github.com/Juma-islam/assignment-number-11-client"><b>🔗 Code</b></a> |
+        <a href="https://garments-tracker-projects.netlify.app/"><b>🚀 Live Demo</b></a>
       </p>
     </td>
 
+    <!-- Project 2 -->
     <td width="50%" valign="top">
       <h3 align="center">02. SmartLMS Pro</h3>
-      <a href="https://smartlms-pro.vercel.app/">
-        <img src="https://i.ibb.co.com/Q36bbzSj/team-banner.png" alt="SmartLMS Pro" style="width: 100%; border-radius: 10px;">
+      
+      <a href="https://smartlms-pro.vercel.app/" target="_blank">
+        <img src="https://i.ibb.co.com/Q36bbzSj/team-banner.png" 
+             alt="SmartLMS Pro" 
+             style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       </a>
+      
       <p align="center">
         <strong>AI Learning Management System</strong><br>
         <em>React • Node.js • Claude API</em>
       </p>
+      
       <p align="center">
-        <a href="https://github.com/masumBillah-1/Ai-Powered-Learning-Management-System"><b>Code</b></a> | 
-        <a href="https://smartlms-pro.vercel.app/"><b>Live Demo</b></a>
+        <a href="https://github.com/masumBillah-1/Ai-Powered-Learning-Management-System"><b>🔗 Code</b></a> |
+        <a href="https://smartlms-pro.vercel.app/"><b>🚀 Live Demo</b></a>
       </p>
     </td>
   </tr>
 </table>
-
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=Juma-islam" />
