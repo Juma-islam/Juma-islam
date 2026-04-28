@@ -65,31 +65,50 @@ I'm a passionate **MERN Stack Developer** specializing in building clean, respon
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">01. GarmentFlow</h3>
-      <a href="[https://your-live-link.com](https://garments-tracker-projects.netlify.app/)">
-        <img src="[https://i.postimg.cc/your-image-id/garmentflow.jpg" alt="GarmentFlow" width="100%](https://i.ibb.co.com/wZkc26QG/banner.png)">
+      <a href="https://garments-tracker-projects.netlify.app/">
+        <img src="https://i.ibb.co.com/wZkc26QG/banner.png" alt="GarmentFlow" style="border-radius: 10px; width: 100%;">
       </a>
       <p align="center">
-        <b>Garment Inventory Tracker</b><br>
-        <i>MERN Stack, JWT, Real-time Updates</i>
+        <strong>Garment Inventory Tracker</strong><br>
+        <em>MERN Stack • JWT Auth • Real-time Updates</em>
       </p>
       <p align="center">
-        <a href="[https://github.com/Juma-islam/repo-link](https://github.com/Juma-islam/assignment-number-11-client)"><b>Code</b></a> | 
-        <a href="[https://your-live-link.com](https://garments-tracker-projects.netlify.app/)"><b>Live Demo</b></a>
+        <a href="https://github.com/Juma-islam/assignment-number-11-client">
+          <img src="https://img.shields.io/badge/Source_Code-black?style=flat-square&logo=github" alt="GitHub">
+        </a>
+        <a href="https://garments-tracker-projects.netlify.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=chrome" alt="Live Demo">
+        </a>
       </p>
+      <ul style="font-size: 0.9em;">
+        <li>Full-stack inventory management system.</li>
+        <li>Secure authentication using JWT.</li>
+        <li>Dynamic dashboard for tracking stock.</li>
+      </ul>
     </td>
+
     <td width="50%" valign="top">
       <h3 align="center">02. SmartLMS Pro</h3>
-      <a href="[https://your-live-link.com](https://smartlms-pro.vercel.app/)">
-        <img src="[https://i.postimg.cc/your-image-id/smartlms.jpg](https://i.ibb.co.com/Q36bbzSj/team-banner.png)" alt="SmartLMS Pro" width="100%">
+      <a href="https://smartlms-pro.vercel.app/">
+        <img src="https://i.ibb.co.com/Q36bbzSj/team-banner.png" alt="SmartLMS Pro" style="border-radius: 10px; width: 100%;">
       </a>
       <p align="center">
-        <b>AI-powered Learning Management System</b><br>
-        <i>React, Node.js, MongoDB, Claude API</i>
+        <strong>AI-Powered Learning System</strong><br>
+        <em>React • Node.js • MongoDB • Claude API</em>
       </p>
       <p align="center">
-        <a href="[https://github.com/Juma-islam/repo-link](https://github.com/masumBillah-1/Ai-Powered-Learning-Management-System)"><b>Code</b></a> | 
-        <a href="[[https://your-live-link.com](https://smartlms-pro.vercel.app/)](https://smartlms-pro.vercel.app/)"><b>Live Demo</b></a>
+        <a href="https://github.com/masumBillah-1/Ai-Powered-Learning-Management-System">
+          <img src="https://img.shields.io/badge/Source_Code-black?style=flat-square&logo=github" alt="GitHub">
+        </a>
+        <a href="https://smartlms-pro.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-blue?style=flat-square&logo=vercel" alt="Live Demo">
+        </a>
       </p>
+      <ul style="font-size: 0.9em;">
+        <li>AI-driven content generation for courses.</li>
+        <li>Interactive student-teacher dashboard.</li>
+        <li>Smooth UI/UX with modern React patterns.</li>
+      </ul>
     </td>
   </tr>
 </table>
